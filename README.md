@@ -15,7 +15,7 @@ My current assignment is with Inera as a solution architect where I have been in
 
 
 ## My Journey
-In March 1987, I started my IT career as a system administrator at Volvo Dealers Business Systems (Volvohandelns Affärssystem), where we built and operated systems for Swedish Volvo dealers on IBM AS/400.  
+In March 1987, I started my IT career as a system administrator at Volvo Dealers Business Systems (Volvohandelns Affärssystem), where we developed and operated systems for Swedish Volvo dealers on IBM AS/400.  
 
 1988 I was persuaded to come to [Volvofinans](https://www.volvofinans.se/) and work as a software developer with their leasing system, soon to be released. I had a great time at Volvofinans working as a software developer, responsible for methods and technology (today we call it CTO ;-)).
 For a few years I had been longing to build web systems with java on this awesome thing called The Internet, so I decided to try my wings and become a Java consultant. Said and done, in July 2000 I started working at Frontec as a Java consultant and a whole [new world](https://www.youtube.com/watch?v=hZ1Rb9hC4JY) appeared, Java, Linux, ant, csv.. you name it.
