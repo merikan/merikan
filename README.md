@@ -1,18 +1,21 @@
 ## Hi, I’m Peter Merikan.
 
-> In software development, complexity might be admired but simplicity is always rewarded.
-
-I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is and am constantly passionate about learning new things.
+I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is and I am constantly passionate about learning new things.
 
 I currently work for one of Sweden's best IT consulting companies, [Callista Enterprise](https://callistaenterprise.se/). 
 
-My current assignment is with Inera as a solution architect where I have been involved in building their questionnaire management solution, used in Swedish healthcare. It is a cloud-native solution built with Spring Boot running on Kubernetes.
+My current assignment is at Inera as a solution architect where I am part of a small team building their questionnaire management solution, used in Swedish healthcare. It is a cloud-native solution built with Spring Boot running on Kubernetes.
 
 
-## My Mottos
+### My Mottos
 * Have fun and always try to make a difference. 
 * You are never too old to learn new things.
 
+And don't forget that      
+> In software development, 
+> complexity might be admired but simplicity is always rewarded.   
+
+Because very often [less is more](https://en.wikipedia.org/wiki/Minimalism#Minimalist_design_and_architecture), so [keep it simple](https://en.wikipedia.org/wiki/KISS_principle), be pragmatic and don't over [overengineer](https://en.wikipedia.org/wiki/Overengineering)
 
 ## My Journey
 In March 1987, I started my IT career as a system administrator at Volvo Dealers Business Systems (Volvohandelns Affärssystem), where we developed and operated systems for Swedish Volvo dealers on IBM AS/400.  
