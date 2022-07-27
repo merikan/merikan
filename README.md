@@ -1,12 +1,10 @@
 ## Hi, I’m Peter Merikan.
 
-[@merikan:matrix.org](https://matrix.to/#/@merikan:matrix.org)
-
 I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is and I am constantly passionate about learning new things.
 
 I currently work for one of Sweden's best IT consulting companies, [Callista Enterprise](https://callistaenterprise.se/). 
 
-My current assignment is at Inera as a solution architect where I am part of a small team building their questionnaire management solution, used in Swedish healthcare. It is a cloud-native solution built with Spring Boot running on Kubernetes.
+My current assignment is at Inera as a solution architect where I am part of a small team building their questionnaire management solution, used in Swedish Healthcare. It is a cloud-native solution built with Java/Spring Boot running on Kubernetes.
 
 
 ### My Mottos
@@ -18,6 +16,16 @@ And don't forget that
 > complexity might be admired but simplicity is always rewarded.   
 
 Because very often [less is more](https://en.wikipedia.org/wiki/Minimalism#Minimalist_design_and_architecture), so [keep it simple](https://en.wikipedia.org/wiki/KISS_principle), be pragmatic and don't over [overengineer](https://en.wikipedia.org/wiki/Overengineering)
+
+### Connect with me:
+
+[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
+[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
 
 ## My Journey
 In March 1987, I started my IT career as a system administrator at Volvo Dealers Business Systems (Volvohandelns Affärssystem), where we developed and operated systems for Swedish Volvo dealers on IBM AS/400.  
@@ -32,6 +40,10 @@ In 2012, I started to feel the urge to work for a company where IT was the main 
 
 So here I am at Callista Enterprise, working with large-scale cloud-native systems in Kubernetes at Inera used by Swedish Healthcare and having the time of my life. 
 
+[website]: https://www.merikan.com/
+[twitter]: https://twitter.com/pmerikan
+[linkedin]: https://linkedin.com/in/merikan
+[matrix]: https://matrix.to/#/@merikan:matrix.org
 
 <!--
 **merikan/merikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
