@@ -1,5 +1,7 @@
 ## Hi, I’m Peter Merikan.
 
+[@merikan:matrix.org](https://matrix.to/#/@merikan:matrix.org)
+
 I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is and I am constantly passionate about learning new things.
 
 I currently work for one of Sweden's best IT consulting companies, [Callista Enterprise](https://callistaenterprise.se/). 
