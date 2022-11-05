@@ -19,6 +19,7 @@ Because very often [less is more](https://en.wikipedia.org/wiki/Minimalism#Minim
 
 ### Connect with me:
 
+[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
 [<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
