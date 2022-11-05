@@ -1,6 +1,14 @@
-## Hi, I’m Peter Merikan.
+[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
+[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is and I am constantly passionate about learning new things.
+<br />
+<br />
+
+## Hi, I’m Peter
+
+I am a Software Engineer living just outside of Gothenburg, Sweden. I have worked with this craft for over 35 years and still think it is the most fun there is, and I am constantly passionate about learning new things.
 
 I currently work for one of Sweden's best IT consulting companies, [Callista Enterprise](https://callistaenterprise.se/). 
 
@@ -15,17 +23,9 @@ And don't forget that
 > In software development, 
 > complexity might be admired but simplicity is always rewarded.   
 
-Because very often [less is more](https://en.wikipedia.org/wiki/Minimalism#Minimalist_design_and_architecture), so [keep it simple](https://en.wikipedia.org/wiki/KISS_principle), be pragmatic and don't over [overengineer](https://en.wikipedia.org/wiki/Overengineering)
+Because very often [less is more](https://en.wikipedia.org/wiki/Minimalism#Minimalist_design_and_architecture), so [keep it simple](https://en.wikipedia.org/wiki/KISS_principle), be pragmatic and don't [overengineer](https://en.wikipedia.org/wiki/Overengineering)
 
-### Connect with me:
 
-[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
-[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
 
 
 ## My Journey
@@ -45,7 +45,7 @@ So here I am at Callista Enterprise, working with large-scale cloud-native syste
 [twitter]: https://twitter.com/pmerikan
 [linkedin]: https://linkedin.com/in/merikan
 [matrix]: https://matrix.to/#/@merikan:matrix.org
-
+[mastodon]: https://mastodon.social/@merikan
 <!--
 **merikan/merikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,3 +64,13 @@ Here are some ideas to get you started:
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merikan)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
+[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
