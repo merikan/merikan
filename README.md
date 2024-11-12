@@ -1,7 +1,8 @@
-[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
-[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="@merikan@bluesky | Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bluesky.svg" />][bluesky]
+[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/matrix.svg" />][matrix]
+[<img align="left" alt="pmerikan@twitter | ExTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />][twitter]
+[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -42,10 +43,12 @@ In 2012, I started to feel the urge to work for a company where IT was the main 
 So here I am at Callista Enterprise, working with large-scale cloud-native systems in Kubernetes at Inera used by Swedish Healthcare and having the time of my life. 
 
 [website]: https://www.merikan.com/
+[bluesky]: https://bsky.app/profile/merikan.bsky.social
+[mastodon]: https://mastodon.social/@merikan
 [twitter]: https://twitter.com/pmerikan
 [linkedin]: https://linkedin.com/in/merikan
 [matrix]: https://matrix.to/#/@merikan:matrix.org
-[mastodon]: https://mastodon.social/@merikan
+
 <!--
 **merikan/merikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,11 +69,11 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merikan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
-
-[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
-[<img align="left" alt="pmerikan@twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="@merikan@mastodon.social | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="@merikan@bluesky | Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bluesky.svg" />][bluesky]
+[<img align="left" alt="merikan@matrix | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/matrix.svg" />][matrix]
+[<img align="left" alt="pmerikan@twitter | ExTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />][twitter]
+[<img align="left" alt="merikan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
