@@ -43,7 +43,7 @@ In 2012, I started to feel the urge to work for a company where IT was the main 
 So here I am at Callista Enterprise, working with large-scale cloud-native systems in Kubernetes at Inera used by Swedish Healthcare and having the time of my life. 
 
 [website]: https://www.merikan.com/
-[bluesky]: https://bsky.app/profile/merikan.bsky.social
+[bluesky]: https://bsky.app/profile/merikan.com
 [mastodon]: https://mastodon.social/@merikan
 [twitter]: https://twitter.com/pmerikan
 [linkedin]: https://linkedin.com/in/merikan
